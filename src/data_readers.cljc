@@ -1,0 +1,1 @@
+{bar cemerick.foo/read-bar}
